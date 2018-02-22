@@ -1,3 +1,2 @@
 Disciplina: Probabilidade
-Professor: Umberto
-22.02.18
+Professor: Ivan
