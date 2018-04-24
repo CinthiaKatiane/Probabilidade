@@ -1,8 +1,6 @@
 ## Projeto da Unidade 1
 
-#### Aluna: Cinthia Katiane Araújo do Nascimento
-#### Matrícula: 2015034742
-
+#### Aluna: Cinthia Katiane
 
 Esse projeto foi realizado para a disciplina de Probabilidade e tem como foco a análise de dados probabilisticos e resolução de problemas usando Python e as bibliotecas estudadas(numpy, matplotlib e pandas). A seguir mais algumas informações sobre o projeto.
 
